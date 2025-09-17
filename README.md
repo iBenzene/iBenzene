@@ -1,6 +1,6 @@
 # 👋 Hi, I'm iBenzene
 
-🌱 I’m currently learning Cloud Computing, CXL and Large Model Systems.
+🌱 I’m currently learning Cloud Computing, CXL and LLM Systems.
 
 <!--
 **iBenzene/iBenzene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
