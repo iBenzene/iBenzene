@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ✍️ Languages
+
+[![Top Langs](https://github-readme-stats.ibenzene.net/api/top-langs/?username=iBenzene&layout=compact&langs_count=6&theme=transparent&exclude_repo=LobeChat,NextChat,RSSHub,NextWhoisUI,AnisetteServer,blog&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
+### ❤️ GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.ibenzene.net/api?username=iBenzene&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
