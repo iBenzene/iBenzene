@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### ✍️ Languages
 
-[![Top Langs](https://github-readme-stats.ibenzene.net/api/top-langs/?username=iBenzene&layout=compact&langs_count=6&theme=transparent&exclude_repo=LobeChat,NextChat,RSSHub,NextWhoisUI,AnisetteServer,github-readme-stats,blog&hide=html,css,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.ibenzene.net/api/top-langs/?username=iBenzene&layout=compact&langs_count=6&theme=transparent&exclude_repo=LobeChat,NextChat,RSSHub,NextWhoisUI,AnisetteServer,github-readme-stats,blog&hide=html,css,shell,powershell)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ❤️ GitHub Stats
 
